@@ -1,0 +1,12 @@
+{
+  "name": "kredit",
+  "displayName": "kredit",
+  "expo": {
+    "name": "kredit",
+    "slug": "kredit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
